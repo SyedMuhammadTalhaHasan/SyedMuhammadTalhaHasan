@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/SyedMuhammadTalhaHasan/SyedMuhammadTalhaHasan/assets/155646073/3af2a6b4-eb72-49af-a6a3-eb470a614f3a)
+![github-header-image (1)](https://github.com/SyedMuhammadTalhaHasan/SyedMuhammadTalhaHasan/assets/155646073/be5c5ffe-93f1-4989-8696-a74c1038d18a)
+
 <h1 align="center">Hi 👋, I'm Syed Muhammad Talha Hasan</h1>
 <h3 align="center">A passionate coder from Pakistan</h3>
 
