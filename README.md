@@ -1,7 +1,7 @@
 ![github-header-image (1)](https://github.com/SyedMuhammadTalhaHasan/SyedMuhammadTalhaHasan/assets/155646073/be5c5ffe-93f1-4989-8696-a74c1038d18a)
 
 <h1 align="center">Hi 👋, I'm Syed Muhammad Talha Hasan</h1>
-<h3 align="center">A passionate coder from Pakistan</h3>
+<h3 align="center">A coding enthusiast from Pakistan</h3>
 
 <img align="right" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
