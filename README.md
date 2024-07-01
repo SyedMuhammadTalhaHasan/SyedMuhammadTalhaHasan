@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmuhammadtalhahasan&label=Profile%20views&color=0e75b6&style=flat" alt="syedmuhammadtalhahasan" /> </p>
 
-- 💬 Ask me about **Html, Css, Bootstrap, Javascript, Dart and Flutter.**
-
 - 📫 How to reach me **syeddtalha06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
